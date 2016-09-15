@@ -2754,6 +2754,15 @@
     },
 
     {
+        "name": "Kaisan",
+        "url": "https://www.kaisan.com.br,
+        "difficulty": "impossible",
+        "domains": [
+            "kaisan.com.br"
+        ]
+    },
+
+    {
         "name": "Khan Academy",
         "url": "https://www.khanacademy.org/settings",
         "difficulty": "easy",
